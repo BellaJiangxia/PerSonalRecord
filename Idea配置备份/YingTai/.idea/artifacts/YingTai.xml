@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="YingTai">
+    <output-path>$PROJECT_DIR$/out/artifacts/YingTai</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="YingTai" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="YingTai/web/Web" />
+    </root>
+  </artifact>
+</component>

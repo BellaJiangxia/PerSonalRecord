@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqljdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com.vastsoft.util.log.0.0003.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ibatis-3-core-3.0.0.200.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.38-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ognl-3.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-core-2.3.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-fileupload-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xwork-core-2.3.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.11.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/db2jcc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com.vastsoft.util.0.0195.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/freemarker-2.3.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-json-plugin-2.3.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com.vastsoft.util.http.0.0001.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
